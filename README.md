@@ -1,25 +1,16 @@
-### 👋 Hello World!!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" width=100>
+  <br><br>
+ 
+### Hi there 👋, my name is Viviane
+#### I am a Web Programing teacher 
 
-<a target="_blank" href="https://www.linkedin.com/in/vivianelf/">
-  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a target="_blank" href="https://api.whatsapp.com/send?phone=5511992583178">
-  <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
-</a>
-<a target="_blank" href="https://www.instagram.com/vivs.2/">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a target="_blank" href="https://www.facebook.com/zennom">
-  <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-</br>
+I'm responsible for the professional qualification of youngers guiding them through specifics knowledges in the information technology area.
 
----- 
+Skills: HTML / CSS / JS 
 
-Hi, I'm Viviane!
+- 🔭 I’m currently working on this page. 
 
-I'm a Web Programing teacher from Brazil 💚, **25 years old** 👶🏻 and **3 years of coding** 🧐. 
 
-**A video-game player** 🎮, **book reader** :closed_book: and **healthy habits** :green_apple:
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/zennom)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/vivianelf/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/zennom)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/vivs.2/)  
 
-----
