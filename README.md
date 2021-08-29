@@ -15,35 +15,23 @@ I'm a {backend and frontend} developer and technical instructor at [@Senac](http
 - [Courses](https://www.sp.senac.br/senac-largo-treze/cursos-tecnicos/curso-tecnico-em-informatica-1#a) :woman_teacher:- It's are technical courses on many technologies, such as HTML, CSS, JavaScript, Git and more
 - [Website](-) 💻 - Working on it.
   
-  
-### Languages :man_technologist:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-
-### Frameworks, Platforms and Libraries :desktop_computer: :page_with_curl:
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-  
-### Databases :technologist:
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Oracle](https://img.shields.io/badge/oracle-%23F00000.svg?style=for-the-badge&logo=oracle&logoColor=white)
-  
-  
-  
 ```zsh
 > neofetch
 ```
-
 <img align="left" src="https://preview.redd.it/anigc3x47ck71.png?width=604&format=png&auto=webp&s=d16244663f50b58a4bbb746c1ac344403f28fa68" alt="made by reddit" width="320" /> 
 
 ```csharp
-anordinaryusername@github
+delimaviviane@yahoo.com.br
 -------------------------
-Pronouns: He/Him
-Location: Artesia, CA
-Languages: Dart, HTML, CSS, JavaScript, Python, PHP
-Frameworks: React
+Name: Viviane
+Location: SP, Brazil
+Languages: Dart, C, HTML, CSS, JavaScript, Python, PHP
+Frameworks: Bootstrap, NodeJS, Laravel
 Databases: MongoDB, MariaDB, MySQL
 Learning: Pandas, R, Data Science
 Hobbies: Game, Cook, Music, Movies, Book
-Discord: RandomPotato#1377
+Games: RPG, JRPG, MOBA, BattleRoyale
+Discord: Zennom#8363
 ```
 <p align="left">
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
