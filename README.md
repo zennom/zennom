@@ -24,3 +24,29 @@ I'm a {backend and frontend} developer and technical instructor at [@Senac](http
   
 ### Databases :technologist:
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Oracle](https://img.shields.io/badge/oracle-%23F00000.svg?style=for-the-badge&logo=oracle&logoColor=white)
+  
+  
+  
+```zsh
+> neofetch
+```
+
+<img align="left" src="https://preview.redd.it/anigc3x47ck71.png?width=604&format=png&auto=webp&s=d16244663f50b58a4bbb746c1ac344403f28fa68" alt="made by reddit" width="320" /> 
+
+```csharp
+anordinaryusername@github
+-------------------------
+Pronouns: He/Him
+Location: Artesia, CA
+Languages: Dart, HTML, CSS, JavaScript, Python, PHP
+Frameworks: React
+Databases: MongoDB, MariaDB, MySQL
+Learning: Pandas, R, Data Science
+Hobbies: Game, Cook, Music, Movies, Book
+Discord: RandomPotato#1377
+```
+<p align="left">
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="#474342" src="https://via.placeholder.com/15/474342/000000?text=+" width="25" height="20" /><img alt="#fbedf6" src="https://via.placeholder.com/15/fbedf6/000000?text=+" width="25" height="20" /><img alt="#c9594d" src="https://via.placeholder.com/15/c9594d/000000?text=+" width="25" height="20" /><img alt="#f8b9b2" src="https://via.placeholder.com/15/f8b9b2/000000?text=+" width="25" height="20" /><img alt="#ae9c9d" src="https://via.placeholder.com/15/ae9c9d/000000?text=+" width="25" height="20" />
+</p>
+
