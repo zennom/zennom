@@ -5,8 +5,10 @@
 ### Hi there 👋, my name is Viviane
   
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/zennom)](https://github.com/zennom)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vivianelf/)](https://www.linkedin.com/in/vivianelf/)
+[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/zennom)](https://github.com/zennom)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/vivianelf/)](https://www.linkedin.com/in/vivianelf/)
+[![Whatsapp Badge](	https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://wa.me/5511992583178)](https://wa.me/5511992583178)
+    
 
 ### About me
 I'm a {backend and frontend} developer and technical instructor at [@Senac](https://www.sp.senac.br/senac-largo-treze).
