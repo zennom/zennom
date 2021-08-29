@@ -13,7 +13,7 @@
 ### About me
 I'm a {backend and frontend} developer and technical instructor at [@Senac](https://www.sp.senac.br/senac-largo-treze).
 
-- [Courses](https://www.sp.senac.br/senac-largo-treze/cursos-tecnicos/curso-tecnico-em-informatica-1#a) :woman_teacher:- It's are technical courses on many technologies, such as Dart, HTML, CSS, JavaScript, Node.Js , Git and more
+- [Courses](https://www.sp.senac.br/senac-largo-treze/cursos-tecnicos/curso-tecnico-em-informatica-1#a) :woman_teacher:- It's are technical courses on many technologies, such as HTML, CSS, JavaScript, Git and more
 - [Website](-) 💻 - Working on it.
   
   
