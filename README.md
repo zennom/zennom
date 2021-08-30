@@ -18,7 +18,7 @@ I'm a {backend and frontend} developer and technical instructor at [@Senac](http
 ```zsh
 > neofetch
 ```
-<img align="left" src="https://preview.redd.it/anigc3x47ck71.png?width=604&format=png&auto=webp&s=d16244663f50b58a4bbb746c1ac344403f28fa68" alt="made by reddit" width="320" /> 
+<img align="left" src="https://i.redd.it/rh3aqcncndk71.jpg" alt="made by reddit" width="320" /> 
 
 ```csharp
 delimaviviane@yahoo.com.br
