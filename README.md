@@ -25,10 +25,10 @@ delimaviviane@yahoo.com.br
 -------------------------
 Name: Viviane
 Location: SP, Brazil
-Languages: Dart, C, HTML, CSS, JavaScript, Python, PHP
-Frameworks: Bootstrap, NodeJS, Laravel
+Languages: Dart, C, HTML, CSS, JavaScript, PHP
+Frameworks: Bulma, Bootstrap, NodeJS, Laravel
 Databases: MongoDB, MariaDB, MySQL
-Learning: Pandas, R, Data Science
+Learning: Python, Pandas, R, Data Science
 Hobbies: Game, Cook, Music, Movies, Book
 Games: RPG, JRPG, MOBA, BattleRoyale
 Discord: Zennom#8363
