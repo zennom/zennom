@@ -6,7 +6,8 @@
   
  ![Viviane GitHub stats](https://github-readme-stats.vercel.app/api?username=zennom&theme=default&show_icons=true)
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zennom&layout=compact)](https://github.com/zennom/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zennom&layout=compact)](https://github.com/zennom/github-readme-stats)
+  
 
 
 ## My name is Viviane, let me present a little about myself
