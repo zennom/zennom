@@ -7,10 +7,10 @@
 
 - :woman_teacher: I'm a {backend and frontend} developer and technical instructor at [@Senac](https://www.sp.senac.br/senac-largo-treze)
 - :books: [Courses](https://www.sp.senac.br/senac-largo-treze/cursos-tecnicos/curso-tecnico-em-informatica)- It's are technical courses on many technologies, such as HTML, CSS, JavaScript, Git and more
-- :woman: :school: I am currently a student of **Mackenzie University**
+- :woman: :school: I am studying for a master's degree on **Mackenzie uni**
 - 🌱 I'm currently learning **data science**  
 - 🤔 My hobbies are **games, music, cook and gym**
--  [Website](-) 💻 - Working on it.
+-  [Website](-) 💻 - Working on it
 
 <br />
 
