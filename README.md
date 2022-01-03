@@ -5,9 +5,9 @@
 
 <img align="right" alt="jpg" width="250px" src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" />
 
-- :woman_teacher: I'm a {backend and frontend} developer and technical instructor at [@Senac](https://www.sp.senac.br/senac-largo-treze)
+- :woman_teacher: I'm a Full Stack developer and technical instructor at [@Senac](https://www.sp.senac.br/senac-largo-treze)
 - :books: [Courses](https://www.sp.senac.br/senac-largo-treze/cursos-tecnicos/curso-tecnico-em-informatica)- It's are technical courses on many technologies, such as HTML, CSS, JavaScript, Git and more
-- :woman: :school: I am studying for a master's degree on **Mackenzie uni**
+- :woman: :school: I am studying MBA on **Faculdade Impacta**
 - 🌱 I'm currently learning **data science**  
 - 🤔 My hobbies are **games, music, cook and gym**
 -  [Website](-) 💻 - Working on it
