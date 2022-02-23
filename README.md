@@ -4,6 +4,7 @@
 <br />
 
 <img align="right" alt="jpg" width="250px" src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" />
+<img align="right" alt="jpg" width="250px" src="https://i.pinimg.com/originals/c1/60/09/c16009efd53f10bba79f19c683d53c3e.gif" />
 
 - :woman_teacher: I'm a Full Stack developer and technical instructor at [@Senac](https://www.sp.senac.br/senac-largo-treze)
 - :books: [Courses](https://www.sp.senac.br/senac-largo-treze/cursos-tecnicos/curso-tecnico-em-informatica)- It's are technical courses on many technologies, such as HTML, CSS, JavaScript, Git and more
