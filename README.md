@@ -37,5 +37,3 @@
 [![Whatsapp Badge](	https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://wa.me/5511992583178)](https://wa.me/5511992583178)
 
 **If you like this readme file, please give me star! ❤️**
-
-
