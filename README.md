@@ -11,7 +11,7 @@
 - :books: [Courses](https://www.sp.senac.br/senac-largo-treze/cursos-tecnicos/curso-tecnico-em-informatica)- Those are technical courses on many technologies, such as HTML, CSS, JavaScript, Git and more
 - :woman: :school: I am studying MBA on **Faculdade Impacta**
 - 🌱 I'm currently learning **data science**  
-- 🤔 My hobbies are **games, music, cook and gym**
+- 🤔 My hobbies are **games, animes, music, cook and gym**
 -  [Website](-) 💻 - Working on it
 
 <br />
@@ -27,7 +27,9 @@
 
 :nerd_face: **Technology being learned**
 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
 <br />
 
@@ -36,3 +38,4 @@
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/zennom)](https://github.com/zennom)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/vivianelf/)](https://www.linkedin.com/in/vivianelf/)
 [![Whatsapp Badge](	https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://wa.me/5511992583178)](https://wa.me/5511992583178)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white&link=https://github.com/zennom)](https://wa.me/5511992583178)
