@@ -1,9 +1,10 @@
 
+  <img align="center" alt="jpg" width="250px" src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" />
+  
   ###  👋 Hi! My name is Viviane, let me present a little about myself
 
 <br />
 
-<img align="right" alt="jpg" width="250px" src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" />
 <img align="right" alt="jpg" width="250px" src="https://64.media.tumblr.com/84c58506d00547066e7b56612a52fec6/4623aa5cfc785e4e-12/s540x810/1f68e9e01a1c414e8a0307e202b927ed94a0f7bf.gifv" />
 
 - :woman_teacher: I'm a Full Stack developer and technical instructor at [@Senac](https://www.sp.senac.br/senac-largo-treze)
