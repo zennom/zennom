@@ -1,7 +1,7 @@
 
   <img align="center" alt="jpg" width=200 src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" />
   
-  ###  👋🏻 🥸 Hi! My name is Viviane, let me present a little about myself
+  ###  👋🏻 Hi! My name is Viviane, let me present a little about myself
 
 <br />
 
