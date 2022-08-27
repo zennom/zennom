@@ -35,9 +35,13 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zennom&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-❤️ **Contact me** 
+<br />
+
+**Contact me** ❤️
 
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/zennom)](https://github.com/zennom)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/vivianelf/)](https://www.linkedin.com/in/vivianelf/)
 [![Whatsapp Badge](	https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://wa.me/5511992583178)](https://wa.me/5511992583178)
 ![Discord](https://img.shields.io/badge/zennom8363-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
+
+
