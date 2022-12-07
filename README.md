@@ -5,7 +5,7 @@
 
 <br />
 
-- 👩🏼‍🏫 I'm a Full Stack developer and technical instructor at [@Senac](https://www.sp.senac.br/senac-largo-treze) and [@Digital House](https://www.digitalhouse.com/br)
+- 👩🏼‍🏫 I'm a Full Stack developer and technical instructor at [@Senac](https://www.sp.senac.br/senac-largo-treze)
 - 📚 [Courses](https://www.sp.senac.br/senac-largo-treze/cursos-tecnicos/curso-tecnico-em-informatica)- Those are technical courses on many technologies, such as HTML, CSS, JavaScript, NodeJS and more
 - 👱🏼‍♀️ 🏫  I am studying MBA on *Faculdade Impacta*
 - 🌱 I'm currently learning *Cloud Computing, Data Persistence, Agile Foundation*  
